@@ -3,8 +3,8 @@
 **Cybersecurity | SOC | Networking | NOC | Linux**
 
 📧 [shiwantha.rodrigo.it@gmail.com](mailto:shiwantha.rodrigo.it@gmail.com)  
-📞 [+94-770-858564](tel:+94770858564)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shiwantha-i-rodrigo/) | [GitHub](https://github.com/Shiwantha-I-Rodrigo) | [Portfolio](https://shiwantha-i-rodrigo.github.io/)
+📞 [+94-770-858564](tel:+94770858564)  
 
 ---
 
