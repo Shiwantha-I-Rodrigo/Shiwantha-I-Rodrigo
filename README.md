@@ -2,7 +2,7 @@
 
 # <img src="gifs/wave.gif" width="30px" height="30px" /> Welcome !
 
-**Cybersecurity | SOC | Networking | NOC | Linux**
+**SOC | Networking | Cybersecurity | Linux**
 
 📧 [shiwantha.rodrigo.it@gmail.com](mailto:shiwantha.rodrigo.it@gmail.com)   
 📞 [+94-770-858564](tel:+94770858564)  
