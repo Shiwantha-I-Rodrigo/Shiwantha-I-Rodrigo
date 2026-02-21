@@ -24,7 +24,7 @@ Skilled in security operations, network and systems security and automation. Ski
 
 ---
 
-## 🎲 Personal Interests
+## 🚩 Personal Interests
 
 - Cryptography  
 - Game Theory Applications  
@@ -40,7 +40,7 @@ Skilled in security operations, network and systems security and automation. Ski
 ---
 
 <details> 
-    <summary> 🛠 <strong>OPERATIONAL SYSTEMS</strong> [ Build --> Deploy ]</summary>
+    <summary> 🛠 <strong>APPLIED SYSTEMS</strong> [ Built for the Real World ]</summary>
     <br>
     <p><a href="https://github.com/Shiwantha-I-Rodrigo/watch_tower">WATCH TOWER 🚨</a> : custom-built siem engineered to capture, correlate and analyze network traffic in real time.</p>
     <p><a href="https://github.com/Shiwantha-I-Rodrigo/enigma">ENIGMA 🔐</a> : deterministic password mangement system generating cryptographically consistent passwords and 2FA tokens.</p>
@@ -51,6 +51,7 @@ Skilled in security operations, network and systems security and automation. Ski
     <summary> 🕵️ <strong>ADVERSARIAL ENGINEERING</strong> [ Exploring Boundaries ]</summary>
     <br>
     <p><a href="https://github.com/Shiwantha-I-Rodrigo/ghost_payload">GHOST PAYLOAD 👻</a> : Research into embedding and concealing executable payloads within legitimate file formats.</p>
+    <p><a href="https://github.com/Shiwantha-I-Rodrigo/game_theory">GAME THEORY 🎲</a> : strategic interactions between attackers and defenders in minimizing risk and maximizing advantage.</a></p>
 </details>
 <br>
 <details> 
@@ -60,10 +61,11 @@ Skilled in security operations, network and systems security and automation. Ski
   <p><a href="https://github.com/Shiwantha-I-Rodrigo/gcc">GOOGLE CYBERSECURITY PROFESIONAL CERTIFICATION GUIDE 🎓 </a>: cyber security operations.</p>
   <p><a href="https://github.com/Shiwantha-I-Rodrigo/linux">COMPTIA LINUX+ CERTIFICATION GUIDE 🎓 </a>: linux system administration.</p>
   <p><a href="https://github.com/Shiwantha-I-Rodrigo/ccna">CISCO CERTIFIED NETWORK ASSOCIATE CERTIFICATION GUIDE 🎓 </a>: networking fundamentals.</p>
+  <p><a href="https://github.com/Shiwantha-I-Rodrigo/try_hack_me">TRYHACKME JOURNEY  🎓 </a> : cybersecurity fundamentals.</a></p>
 </details>
 <br>
 <details> 
-  <summary> 🛡 <strong>BLUE TEAM</strong> [ Detection --> Response --> Iteration ]</summary>
+  <summary> 🛡 <strong>SECURITY OPERATIONS</strong> [ Defensive Engineering ]</summary>
   <br>
   <p><a href="https://github.com/Shiwantha-I-Rodrigo/homelab">SOC/NOC HOME LAB JOURNAL 🌐</a> : network design, threat simulations and defensive automation.</p>
 </details>
