@@ -44,13 +44,13 @@ Skilled in security operations, network and systems security and automation. Ski
     <br>
     <p><a href="https://github.com/Shiwantha-I-Rodrigo/watch_tower">WATCH TOWER 🚨</a> : custom-built siem engineered to capture, correlate and analyze network traffic in real time.</p>
     <p><a href="https://github.com/Shiwantha-I-Rodrigo/enigma">ENIGMA 🔐</a> : deterministic password mangement system generating cryptographically consistent passwords and 2FA tokens.</p>
-    <p><a href="https://github.com/Shiwantha-I-Rodrigo/kgvh_2023">KING GARDEN VIEW HOTEL PLATFORM 🏠</a> : full-stack reservation and management system. secure-by-design architecture with role separation and data integrity controls.</p>
+    <p><a href="https://github.com/Shiwantha-I-Rodrigo/kgvh_2023">KING GARDEN VIEW HOTEL PLATFORM 🏠</a> : full-stack room reservation and hotel management system.</p>
 </details>
 <br>
 <details>
     <summary> 🕵️ <strong>ADVERSARIAL ENGINEERING</strong> [ Exploring Boundaries ]</summary>
     <br>
-    <p><a href="https://github.com/Shiwantha-I-Rodrigo/ghost_payload">GHOST PAYLOAD 👻</a> : Research into embedding and concealing executable payloads within legitimate file formats. polyglots, steganographic tricks and format abuse.</p>
+    <p><a href="https://github.com/Shiwantha-I-Rodrigo/ghost_payload">GHOST PAYLOAD 👻</a> : Research into embedding and concealing executable payloads within legitimate file formats.</p>
 </details>
 <br>
 <details> 
@@ -65,7 +65,7 @@ Skilled in security operations, network and systems security and automation. Ski
 <details> 
   <summary> 🛡 <strong>BLUE TEAM</strong> [ Detection --> Response --> Iteration ]</summary>
   <br>
-  <p><a href="https://github.com/Shiwantha-I-Rodrigo/homelab">SOC/NOC HOME LAB JOURNAL 🌐</a> : continuous log of network design, detection engineering experiments, log analysis pipelines, threat simulations and defensive automation.</p>
+  <p><a href="https://github.com/Shiwantha-I-Rodrigo/homelab">SOC/NOC HOME LAB JOURNAL 🌐</a> : network design, threat simulations and defensive automation.</p>
 </details>
 <br>
 <details> 
