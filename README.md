@@ -8,8 +8,6 @@
 📞 [+94-770-858564](tel:+94770858564)  
 🔗 [LinkedIn](https://www.linkedin.com/in/shiwantha-i-rodrigo/) | [GitHub](https://github.com/Shiwantha-I-Rodrigo) | [Portfolio](https://shiwantha-i-rodrigo.github.io/) 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/shiwantha.png" alt="Your Image Badge" />
-
 ---
 
 ## 📊 Professional Summary
